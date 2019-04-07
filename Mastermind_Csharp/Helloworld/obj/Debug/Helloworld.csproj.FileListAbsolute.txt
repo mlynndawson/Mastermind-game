@@ -1,0 +1,14 @@
+C:\Users\Mariah Dawson\MariahDawson-c\module-1\01_Introduction_Tools\student-exercise\dotnet\csharp-helloworld\Helloworld\bin\Debug\Helloworld.exe.config
+C:\Users\Mariah Dawson\MariahDawson-c\module-1\01_Introduction_Tools\student-exercise\dotnet\csharp-helloworld\Helloworld\bin\Debug\Helloworld.exe
+C:\Users\Mariah Dawson\MariahDawson-c\module-1\01_Introduction_Tools\student-exercise\dotnet\csharp-helloworld\Helloworld\bin\Debug\Helloworld.pdb
+C:\Users\Mariah Dawson\MariahDawson-c\module-1\01_Introduction_Tools\student-exercise\dotnet\csharp-helloworld\Helloworld\obj\Debug\Helloworld.csprojAssemblyReference.cache
+C:\Users\Mariah Dawson\MariahDawson-c\module-1\01_Introduction_Tools\student-exercise\dotnet\csharp-helloworld\Helloworld\obj\Debug\Helloworld.csproj.CoreCompileInputs.cache
+C:\Users\Mariah Dawson\MariahDawson-c\module-1\01_Introduction_Tools\student-exercise\dotnet\csharp-helloworld\Helloworld\obj\Debug\Helloworld.exe
+C:\Users\Mariah Dawson\MariahDawson-c\module-1\01_Introduction_Tools\student-exercise\dotnet\csharp-helloworld\Helloworld\obj\Debug\Helloworld.pdb
+C:\Users\Mariah Dawson\Documents\Mastermind_Quadax\csharp-helloworld\Helloworld\bin\Debug\Helloworld.exe.config
+C:\Users\Mariah Dawson\Documents\Mastermind_Quadax\csharp-helloworld\Helloworld\bin\Debug\Helloworld.exe
+C:\Users\Mariah Dawson\Documents\Mastermind_Quadax\csharp-helloworld\Helloworld\bin\Debug\Helloworld.pdb
+C:\Users\Mariah Dawson\Documents\Mastermind_Quadax\csharp-helloworld\Helloworld\obj\Debug\Helloworld.csprojAssemblyReference.cache
+C:\Users\Mariah Dawson\Documents\Mastermind_Quadax\csharp-helloworld\Helloworld\obj\Debug\Helloworld.csproj.CoreCompileInputs.cache
+C:\Users\Mariah Dawson\Documents\Mastermind_Quadax\csharp-helloworld\Helloworld\obj\Debug\Helloworld.exe
+C:\Users\Mariah Dawson\Documents\Mastermind_Quadax\csharp-helloworld\Helloworld\obj\Debug\Helloworld.pdb

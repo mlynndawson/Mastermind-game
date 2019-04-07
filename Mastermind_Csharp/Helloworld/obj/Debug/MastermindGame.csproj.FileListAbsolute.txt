@@ -1,0 +1,7 @@
+C:\Users\Mariah Dawson\Documents\Mastermind_Quadax\csharp-helloworld\Helloworld\bin\Debug\Helloworld.exe.config
+C:\Users\Mariah Dawson\Documents\Mastermind_Quadax\csharp-helloworld\Helloworld\bin\Debug\Helloworld.exe
+C:\Users\Mariah Dawson\Documents\Mastermind_Quadax\csharp-helloworld\Helloworld\bin\Debug\Helloworld.pdb
+C:\Users\Mariah Dawson\Documents\Mastermind_Quadax\csharp-helloworld\Helloworld\obj\Debug\MastermindGame.csproj.CoreCompileInputs.cache
+C:\Users\Mariah Dawson\Documents\Mastermind_Quadax\csharp-helloworld\Helloworld\obj\Debug\Helloworld.exe
+C:\Users\Mariah Dawson\Documents\Mastermind_Quadax\csharp-helloworld\Helloworld\obj\Debug\Helloworld.pdb
+C:\Users\Mariah Dawson\Documents\Mastermind_Quadax\csharp-helloworld\Helloworld\obj\Debug\MastermindGame.csprojAssemblyReference.cache
